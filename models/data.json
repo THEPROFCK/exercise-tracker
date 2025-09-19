@@ -1,4 +1,24 @@
 {
-  "users": [],
-  "exercises": []
+  "users": [
+    {
+      "username": "fcc_test_17583015722",
+      "_id": "ed904606-2c47-42a5-9a15-c77e4be47a34"
+    },
+    {
+      "username": "fcc_test_17583015722",
+      "_id": "4c6cc4bf-7878-4ef2-8e60-63ecdbfd719a"
+    },
+    {
+      "username": "fcc_test_17583015722",
+      "_id": "e073e6ff-fb86-4def-864a-90aa17e8ef6a"
+    }
+  ],
+  "exercises": [
+    {
+      "userId": "e073e6ff-fb86-4def-864a-90aa17e8ef6a",
+      "description": "test",
+      "duration": 60,
+      "date": "1990-01-01T00:00:00.000Z"
+    }
+  ]
 }
